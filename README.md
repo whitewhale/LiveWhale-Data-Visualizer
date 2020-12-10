@@ -3,6 +3,8 @@ This custom module reads data from APIs or online CSV files and presents it as a
 
 As configured, module renders county-level COVID data from the Knowi API (https://www.knowi.com/coronavirus-dashboards/covid-19-api/).
 
+Demo: https://www.livewhale.com/_data-visualizer/
+
 ## Installation
 1. Add the data_visualizer module to /client/modules and log out of LiveWhale and back in again to register the new custom module.
 2. Upload the data-visualizer-demo folder to your public web root.
